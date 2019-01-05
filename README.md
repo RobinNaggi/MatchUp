@@ -1,6 +1,6 @@
 # Match'm Up 
 
-Match'm Up tests your skill of remembering the location all the cards you have seen. Each game will consist of a diffrent theme and no new game will have the cards in the same location so we winning wont be so easy.  
+Match'm Up tests your skill of remembering the location all the cards you have seen. Each game will consist of a different theme and no new game will have the cards in the same location so we winning wont be so easy.  
 
 ## Demo
 ![](https://media.giphy.com/media/EqO7afCelVwWRZ2aRC/giphy.gif)
