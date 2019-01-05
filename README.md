@@ -2,6 +2,8 @@
 
 Match'm Up tests your skill of remembering the location all the cards you have seen. Each game will consist of a diffrent theme and no new game will have the cards in the same location so we winning wont be so easy.  
 
+![]{Demo.MOV}
+
 THE RULES FOR PLAYING "Match'm Up"
 Mix up the cards.
 Turn over any two cards.
